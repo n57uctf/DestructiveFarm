@@ -22,6 +22,13 @@ CONFIG = {
     # 'SYSTEM_PROTOCOL': 'volgactf',
     # 'SYSTEM_HOST': '127.0.0.1',
 
+    # FreeHackQuest(SibirCTF) checksystem
+    # 'SYSTEM_HOST': '127.0.0.1',
+    # 'SYSTEM_PORT': 8080,
+    #  Your team_id(see table)
+    # 'TEAM_ID': 1,
+
+
     # The server will submit not more than SUBMIT_FLAG_LIMIT flags
     # every SUBMIT_PERIOD seconds. Flags received more than
     # FLAG_LIFETIME seconds ago will be skipped.
